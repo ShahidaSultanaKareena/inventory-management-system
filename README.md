@@ -188,9 +188,6 @@ The system includes comprehensive error handling for:
 
 This project is open source and available for educational and commercial use.
 
-## 👤 Author
-
-Created for Shwapno Retail Operations
 
 ## 🤝 Contributing
 
@@ -202,5 +199,3 @@ For issues or questions, please create an issue in the GitHub repository.
 
 ---
 
-**Version:** 1.0.0  
-**Last Updated:** July 13, 2026
