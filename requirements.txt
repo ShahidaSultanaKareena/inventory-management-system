@@ -1,0 +1,17 @@
+# Python Requirements
+# Inventory Management System for Shwapno Retail
+
+# Core Dependencies
+# (No external dependencies required - uses only Python standard library)
+
+# Development Requirements (Optional)
+# Uncomment if you want to enhance the project with additional features:
+
+# pytest>=7.0  # For unit testing
+# black>=22.0  # For code formatting
+# flake8>=4.0  # For code linting
+# pylint>=2.13  # For code analysis
+
+# System Requirements:
+# Python 3.6 or higher
+# Operating System: Windows, macOS, or Linux
